@@ -78,9 +78,10 @@ For policymakers, this means understanding your network's structure before an ou
 
 ## Run the Simulation Yourself
 
-```bash
+```
 git clone https://github.com/obtbe/graph-sir-topology
 cd graph-sir-topology
 pip install -r requirements.txt
 python test_comparison.py
 python test_scenarios.py
+```
